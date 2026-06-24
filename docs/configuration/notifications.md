@@ -2,6 +2,8 @@
 
 **Connect** (Settings → Connect) lets Mangarr notify other apps and services when things happen — most importantly, telling your reader to rescan when new chapters land.
 
+![Connect / Notifications settings](../assets/img/wiki-settings-connect.png)
+
 ## First-class manga integrations
 
 | Connection | What it does |

@@ -4,6 +4,8 @@
 
 If you've used Sonarr or Radarr, Mangarr will feel instantly familiar — it's built on the same proven foundation, adapted for the manga domain.
 
+![Mangarr library](assets/img/wiki-library.png)
+
 !!! tip "New here? Start with installation"
     Head to **[Installation](getting-started/installation.md)**, then **[First-Time Setup](getting-started/first-time-setup.md)**, and finally **[Connecting MangarrGateway](getting-started/gateway-setup.md)**. Those three pages take you from zero to a working, automated library.
 

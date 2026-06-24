@@ -2,6 +2,8 @@
 
 The **Activity** area shows what Mangarr is doing right now and what it has done. It has three tabs.
 
+![Activity Queue](../assets/img/wiki-activity-queue.png)
+
 ## Queue
 
 The **Queue** lists chapters currently being downloaded by the **[Gateway](../getting-started/gateway-setup.md)** or waiting to be imported.

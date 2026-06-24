@@ -2,6 +2,8 @@
 
 **Settings → General** holds host, security, proxy, logging, and update options. Below are the settings you're most likely to touch, plus backups and the API.
 
+![General settings](../assets/img/wiki-settings-general.png)
+
 ## Security
 
 | Setting | Recommendation |

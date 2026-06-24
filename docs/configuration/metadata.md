@@ -6,6 +6,8 @@ Metadata is the information *about* your manga — title, cover art, description
 
 **Settings → Metadata Source** chooses where Mangarr looks up titles when you search to **[add a manga](../usage/adding-manga.md)**, and where it refreshes details from.
 
+![Metadata Source settings](../assets/img/wiki-settings-metadatasource.png)
+
 Supported sources:
 
 | Source | Notes |

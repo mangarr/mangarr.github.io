@@ -4,6 +4,8 @@
 
 Find them under **Settings → Import Lists**.
 
+![Import List settings](../assets/img/wiki-settings-importlists.png)
+
 ## Supported lists
 
 | Source | Typical use |

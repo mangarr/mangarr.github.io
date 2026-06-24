@@ -4,6 +4,8 @@ A **download client** is what Mangarr uses to *grab* a chapter and receive the f
 
 Find this under **Settings → Download Clients**.
 
+![Download Client settings](../assets/img/wiki-settings-downloadclients.png)
+
 !!! info "Pairs with the Gateway indexer"
     The **[indexer](indexers.md)** searches; the download client grabs. Both must point at the same Gateway with the same API key. Set them up together — see **[Connecting MangarrGateway](../getting-started/gateway-setup.md)**.
 

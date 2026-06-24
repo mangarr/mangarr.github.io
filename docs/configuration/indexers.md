@@ -4,6 +4,8 @@ An **indexer** is how Mangarr *searches* for chapters. In Mangarr there is one i
 
 Find this under **Settings → Indexers**.
 
+![Indexer settings](../assets/img/wiki-settings-indexers.png)
+
 !!! info "Mangarr ships no built-in scrapers"
     Unlike a Usenet/torrent setup, Mangarr does not scrape manga sites itself and bundles no embedded browser. All searching is delegated to MangarrGateway. If you haven't set the Gateway up yet, start with **[Connecting MangarrGateway](../getting-started/gateway-setup.md)**.
 

@@ -2,6 +2,8 @@
 
 **Settings → Media Management** controls where files live and how Mangarr names, moves, and maintains them.
 
+![Media Management settings](../assets/img/wiki-settings-mediamanagement.png)
+
 ## Root folders
 
 A **root folder** is a top-level directory that holds a library of manga. Each title you add gets its own subfolder beneath the root.

@@ -4,6 +4,8 @@ In Sonarr you'd pick a video quality. Manga has no resolution, so Mangarr uses a
 
 Find these under **Settings → Profiles**.
 
+![Translation Profiles settings](../assets/img/wiki-settings-profiles.png)
+
 ## Translation Profile
 
 A Translation Profile has three parts:

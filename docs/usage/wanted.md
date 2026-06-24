@@ -2,6 +2,8 @@
 
 The **Wanted** area lists chapters Mangarr still wants to fetch or improve. It has two tabs.
 
+![Wanted — Missing](../assets/img/wiki-wanted-missing.png)
+
 ## Missing
 
 **Missing** lists every **monitored** chapter that has no file yet. These are the chapters automatic search is trying to fill.

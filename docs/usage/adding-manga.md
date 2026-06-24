@@ -5,6 +5,8 @@ Adding a title tells Mangarr to track it, where to store it, which chapters to m
 !!! note "Prerequisites"
     Make sure you've added at least one **[root folder](../configuration/media-management.md)**, created a **[Translation Profile](../configuration/profiles.md)**, and **[connected the Gateway](../getting-started/gateway-setup.md)**.
 
+![Add New Manga search](../assets/img/wiki-add-manga.png)
+
 ## Add a single title
 
 1. Go to **Add New** (in the Manga/Library area).

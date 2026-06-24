@@ -59,6 +59,7 @@ nav:
       - Activity: usage/activity.md
       - Wanted: usage/wanted.md
       - Manual Import: usage/manual-import.md
+  - Discovery: discovery.md
   - Configuration:
       - Media Management: configuration/media-management.md
       - Profiles: configuration/profiles.md

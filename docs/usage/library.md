@@ -2,6 +2,8 @@
 
 The library is your home base — every manga you track, with its monitoring state and chapter progress at a glance.
 
+![Library poster view](../assets/img/wiki-library.png)
+
 ## Views
 
 Switch between layouts to suit your collection:
@@ -25,6 +27,8 @@ Each title shows how complete it is. On the detail page, individual chapters car
 | **Upgrade available** | A better match (preferred language/format) exists and will be fetched. |
 
 ## The detail page
+
+![Manga detail page](../assets/img/wiki-manga-detail.png)
 
 Open a title to:
 
