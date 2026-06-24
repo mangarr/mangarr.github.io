@@ -43,6 +43,9 @@ Tags: `latest`, the full version (`1.0.0`), and a minor tag (`1.0`).
 !!! warning "Image tags drop the leading `v`"
     The git tag is `v1.0.0`, but the **image** tag is `1.0.0` (no `v`). Use `MANGA_GATEWAY_VERSION=1.0.0`, not `v1.0.0`.
 
+!!! tip "Ready-made compose files"
+    Full copy-paste `docker-compose.yml` files for **both** the simple and full setups are on the **[Docker Compose](gateway/docker.md)** page. The snippets below are a quick reference.
+
 ### Gateway only (simplest)
 
 Most sources work with just the gateway container — no extra setup. This runs the API alone:

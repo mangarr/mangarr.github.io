@@ -72,6 +72,7 @@ nav:
       - General &amp; Security: configuration/general.md
   - MangarrGateway:
       - Overview: gateway.md
+      - Docker Compose: gateway/docker.md
       - Sources: gateway/sources.md
   - Help:
       - FAQ: faq.md
