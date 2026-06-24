@@ -7,6 +7,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  logo: assets/img/mangarr-logo.png
+  favicon: assets/img/favicon.png
   palette:
     # Dark mode (default — listed first, no media query so it loads dark regardless of OS)
     - scheme: slate
