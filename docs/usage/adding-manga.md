@@ -10,7 +10,7 @@ Adding a title tells Mangarr to track it, where to store it, which chapters to m
 ## Add a single title
 
 1. Go to **Add New** (in the Manga/Library area).
-2. Search for the title by name. Results come from your configured **[metadata source](../configuration/metadata.md)** (MangaDex / AniList / MyAnimeList).
+2. Search for the title by name. Results come from your **[metadata source](../configuration/metadata.md)** (MangaBaka).
 3. Click the correct result to open the add dialog.
 4. Set the options below.
 5. Click **Add**.
