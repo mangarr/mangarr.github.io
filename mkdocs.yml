@@ -48,6 +48,28 @@ plugins:
 
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
-  - Configuration: configuration.md
-  - FAQ: faq.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+      - First-Time Setup: getting-started/first-time-setup.md
+      - Connecting MangarrGateway: getting-started/gateway-setup.md
+  - Using Mangarr:
+      - Adding Manga: usage/adding-manga.md
+      - Your Library: usage/library.md
+      - Searching & Grabbing: usage/searching.md
+      - Activity: usage/activity.md
+      - Wanted: usage/wanted.md
+      - Manual Import: usage/manual-import.md
+  - Configuration:
+      - Media Management: configuration/media-management.md
+      - Profiles: configuration/profiles.md
+      - Custom Formats: configuration/custom-formats.md
+      - Indexers: configuration/indexers.md
+      - Download Clients: configuration/download-clients.md
+      - Import Lists: configuration/import-lists.md
+      - Notifications: configuration/notifications.md
+      - Metadata: configuration/metadata.md
+      - General &amp; Security: configuration/general.md
+  - MangarrGateway: gateway.md
+  - Help:
+      - FAQ: faq.md
+      - Troubleshooting: troubleshooting.md
