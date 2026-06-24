@@ -8,16 +8,16 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
+    # Dark mode (default — listed first, no media query so it loads dark regardless of OS)
+    - scheme: slate
+      primary: pink
       accent: purple
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep purple
+    # Light mode (available via the toggle)
+    - scheme: default
+      primary: pink
       accent: purple
       toggle:
         icon: material/weather-sunny
