@@ -74,6 +74,7 @@ nav:
       - Overview: gateway.md
       - Docker Compose: gateway/docker.md
       - Sources: gateway/sources.md
+      - Troubleshooting & FAQ: gateway/troubleshooting.md
   - Help:
       - FAQ: faq.md
       - Troubleshooting: troubleshooting.md

@@ -164,6 +164,8 @@ These are set as environment variables (or in `.env` next to the compose file). 
 
 ## Troubleshooting
 
+A quick-reference table is below; for detailed fixes and common questions see **[Troubleshooting & FAQ](gateway/troubleshooting.md)**.
+
 | Symptom | Likely cause & fix |
 |---------|--------------------|
 | **Indexer/Download Client "Test" fails** | Wrong host/port, or a Docker networking issue. Use the Gateway's **container name** (`http://gateway:9191`) when both run on the same Docker network, or the host's LAN IP otherwise — never `localhost` from inside another container. |
