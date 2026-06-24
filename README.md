@@ -1,1 +1,1 @@
-mangarr.github.io
+https://mangarr.github.io
