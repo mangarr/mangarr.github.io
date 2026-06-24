@@ -69,7 +69,9 @@ nav:
       - Notifications: configuration/notifications.md
       - Metadata: configuration/metadata.md
       - General &amp; Security: configuration/general.md
-  - MangarrGateway: gateway.md
+  - MangarrGateway:
+      - Overview: gateway.md
+      - Sources: gateway/sources.md
   - Help:
       - FAQ: faq.md
       - Troubleshooting: troubleshooting.md
