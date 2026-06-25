@@ -34,6 +34,9 @@ Four sources — **Comix, Mangadot, MangaBall, and Kagane** — sit behind a str
 !!! tip "You don't have to run them all"
     If you don't enable the solver stack, those four sources simply boot **disabled** and everything else keeps working. The other five — **MangaDex, MangaFire, Atsumaru, Weeb Central, ProjectSuki** — run with just the gateway container. See **[Install (Docker)](../gateway.md#install-docker)** for both paths.
 
+!!! info "Heavy use? Give a source its own device"
+    By default the four solver sources share **one** Android device. If one is heavily used and starts to slow the others (Kagane is the usual culprit), you can give it a **dedicated lane** — its own device — without touching the rest. See **[Dedicated solver lanes](docker.md#dedicated-solver-lanes-advanced)**.
+
 ## Notes
 
 - **MangaDex external IDs** — beyond title search, MangaDex releases can be matched by `mangadexId`, `anilistId`, or `malId`, which makes it the most reliable source for exact-match grabbing.

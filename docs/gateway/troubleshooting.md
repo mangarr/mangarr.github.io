@@ -33,6 +33,10 @@ See **[The API key](../gateway.md#the-api-key)**.
 
 Cloudflare is stricter on cloud/datacenter IPs than on residential ones. If a protected source clears intermittently on a server, route the Gateway's egress through a residential proxy (`GATEWAY_CLOUDFLARE_PROXY_*`) — see **[Tuning and advanced options](../gateway.md#tuning-and-advanced-options)**.
 
+### A Cloudflare source goes "unavailable" in bursts under heavy use
+
+The four solver sources share **one** Android device by default. When one is hammered — many searches plus a download flood at once (Kagane is the usual culprit) — it can monopolise the device long enough that another source's Cloudflare clearance times out, and that source is briefly reported **unavailable**. It clears itself within a minute. If it happens often, give the busy source its **own** device: see **[Dedicated solver lanes](docker.md#dedicated-solver-lanes-advanced)**.
+
 ### redroid won't start / the solver stack won't come up
 
 The solver stack is **Linux-only** and has host requirements:
